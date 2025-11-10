@@ -22,7 +22,7 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJ3bmZzNWdpM2N6Y2FyOWJvMGcxNTN1bGY1YXZzZ2ZrOGdqbnhyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6jjg29yAL2YUyjpBtP/giphy.gif" width="40"> A little more about me...
 
 - 👋 Hi, I’m **@Prince-Anand**  
-- 👀 I’m interested in **web development**, reading **novels/manga/manhwa/light novels**, and watching <br> **anime/movies** — guess that makes me a bit of a *cinephile* and *bibliophile*!  
+- 👀 I’m interested in **web development**, reading **novels/manga/manhwa/light novels**,<br> and watching **anime/movies** — guess that makes me a bit of a *cinephile* and *bibliophile*!  
 - 🌱 I’m currently learning **Python, C, C++, Java, JavaScript, Kotlin**, and more.  
 - 💞️ I’m looking to collaborate on exciting **projects**.  
 - 📫 Reach me through **X (Twitter)** or **LinkedIn** — I’m mostly active there.  
