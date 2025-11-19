@@ -26,7 +26,6 @@
 - 🌱 I’m currently learning **Python, C, C++, Java, JavaScript, Kotlin**, and more.  
 - 💞️ I’m looking to collaborate on exciting **projects**.  
 - 📫 Reach me through **X (Twitter)** or **LinkedIn** — I’m mostly active there.  
-- 😄 Pronouns: (you can find them in line 2 😉)  
 - ⚡ Fun fact: *he he...*  
 
 <!-- <h1 align="center"> I'm Prince Anand</h1> -->
