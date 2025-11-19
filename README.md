@@ -30,7 +30,7 @@
 - ⚡ Fun fact: *he he...*  
 
 <!-- <h1 align="center"> I'm Prince Anand</h1> -->
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A Full Stack Developer from India who loves to Design and Build Scalable Solutions</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prince-anand&label=Profile%20views&color=0e75b6&style=flat" alt="prince-anand" />
