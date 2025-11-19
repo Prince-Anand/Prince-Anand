@@ -95,17 +95,17 @@
     <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
+<h3 align="left">My Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anand&show_icons=true&locale=en&layout=compact" alt="prince-anand" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anand&show_icons=true&locale=en&layout=compact&theme=gotham" alt="prince-anand" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en" alt="prince-anand" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en&theme=gotham&hide=issues" alt="prince-anand" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-anand&" alt="prince-anand" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prince-anand&theme=gotham" alt="prince-anand" />
 </p>
 
 <!---
