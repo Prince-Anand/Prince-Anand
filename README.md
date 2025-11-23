@@ -105,7 +105,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prince-anand&theme=gotham" alt="prince-anand" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prince-anand&theme=gotham&hide_border=true" alt="prince-anand" />
 </p>
 
 <!---
