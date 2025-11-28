@@ -101,7 +101,7 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en&theme=gotham&hide=issues" alt="prince-anand" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en&hide=issues" alt="prince-anand" />
 </p>
 
 <p>
