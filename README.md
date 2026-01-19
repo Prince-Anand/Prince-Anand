@@ -105,7 +105,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://prince-stats.vercel.app?user=prince-anand&theme=gotham&hide_border=false" alt="prince-anand" />
+  <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&theme=gotham&hide_border=true&short_numbers=true" alt="prince-anand" />
 </p>
 
 <!---
