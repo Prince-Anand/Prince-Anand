@@ -106,7 +106,7 @@
 </p> -->
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&theme=android-dark&short_numbers=true" alt="prince-anand" />
+  <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&hide_border=true&theme=gotham&short_numbers=true" alt="prince-anand" />
 </p>
 <!-- </div> -->
 
