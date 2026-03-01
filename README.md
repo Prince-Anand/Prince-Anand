@@ -96,17 +96,19 @@
   </a>
 </p>
 <h3 align="left">My Stats:</h3>
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anand&show_icons=true&locale=en&layout=compact&theme=gotham" alt="prince-anand" />
-</p>
+</p> -->
 
-<p>
+<div align="center">
+<!-- <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en&hide=issues&theme=gotham" alt="prince-anand" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&theme=gotham&hide_border=true&short_numbers=true" alt="prince-anand" />
 </p>
+</div>
 
 <!---
 Prince-Anand/Prince-Anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
