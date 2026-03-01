@@ -100,15 +100,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anand&show_icons=true&locale=en&layout=compact&theme=gotham" alt="prince-anand" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 <!-- <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anand&show_icons=true&locale=en&hide=issues&theme=gotham" alt="prince-anand" />
 </p> -->
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&theme=gotham&hide_border=true&short_numbers=true" alt="prince-anand" />
+  <img align="center" src="https://streak-stats.demolab.com?user=prince-anand&theme=android-dark&short_numbers=true" alt="prince-anand" />
 </p>
-</div>
+<!-- </div> -->
 
 <!---
 Prince-Anand/Prince-Anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
