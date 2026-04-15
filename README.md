@@ -38,7 +38,7 @@
 - 🌱 I’m currently focusing on **Full-Stack Web Development (MERN)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://dev.to/princeanand" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="princeanand" height="30" width="40" />
   </a>
@@ -51,9 +51,25 @@
   <a href="https://www.leetcode.com/princeanand" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princeanand" height="30" width="40" />
   </a>
-</p>
+</p> -->
+<!-- <h3 align="center">🌐 Connect with Me</h3> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <a href="https://dev.to/princeanand" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="50" alt="devto"/>
+  </a>
+  <a href="https://linkedin.com/in/prince-anand" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/princeanand" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" alt="leetcode"/>
+  </a>
+  <a href="https://www.codechef.com/users/prince_anand" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="50" alt="codechef"/>
+  </a>
+</div>
+
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -94,7 +110,28 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
+</p> -->
+<h3 align="left">Languages and Tools:</h3>
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p> -->
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="60" alt="c and cpp"/>
+</div>
 <h3 align="left">My Stats:</h3>
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anand&show_icons=true&locale=en&layout=compact&theme=gotham" alt="prince-anand" />
