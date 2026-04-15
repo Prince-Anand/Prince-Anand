@@ -130,7 +130,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3"/>
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java"/>
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python"/>
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="60" alt="c and cpp"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,react,mongodb,express,git,mysql" height="60" alt="c and cpp"/>
 </div>
 <h3 align="left">My Stats:</h3>
 <!-- <p>
